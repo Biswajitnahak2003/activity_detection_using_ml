@@ -42,10 +42,9 @@ This project integrates Arduino and Machine Learning for real-time monitoring an
 
     Output
     The activity class (Resting, Walking, Running) is displayed on the terminal of editer.
-🖥️ Demo 
 
 
-🤖 Future Improvements
+Future Improvements
 
     Use more features like motion data (accelerometer)
 
@@ -53,7 +52,7 @@ This project integrates Arduino and Machine Learning for real-time monitoring an
 
     Improve accuracy using deep learning models
 
-🧠 Skills Demonstrated
+Skills Demonstrated:
 
   Arduino hardware interfacing
 
@@ -62,4 +61,18 @@ This project integrates Arduino and Machine Learning for real-time monitoring an
   Machine Learning model training
 
   Real-time data visualization
+
+Author:
+
+Biswajit Nahak
+Student | Electronics and Telecommunication Engineering
+
+
+GitHub Profile:
+https://github.com/Biswajitnahak2003
+Contact:
+
+
+Feel free to raise an issue or connect with me if you have any questions!
+
 
